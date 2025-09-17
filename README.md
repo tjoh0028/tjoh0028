@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey there! 🙌 I'm Tanish Johar
 
-<!--
-**tjoh0028/tjoh0028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for stopping by my GitHub profile!  
 
-Here are some ideas to get you started:
+### 🎓 Background  
+🎓 Master’s in Business Analytics
+📍 Currently based in Melbourne
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 What I’m Passionate About  
+- Turning raw data into meaningful insights 🔍  
+- Exploring business intelligence tools for smarter decisions 📈  
+- Customer & market analysis 💡  
+- Building clear and impactful data stories 📊  
+
+### 🛠️ My Toolkit  
+- *Programming & Databases:* SQL, R, Python
+- *Visualization & BI:* Tableau, Power BI, Excel  
+- *Workflow & Collaboration:* GitHub, Jira  
+
+### 🤝 Collaboration & Interests  
+Always happy to connect and collaborate on:  
+- Data analytics projects  
+- Dashboard building & automation  
+- Research in customer insights/marketing analytics  
+
+### 📫 How to reach me  
+Let’s connect on [LinkedIn]([LinkedIn-profile-link](https://www.linkedin.com/in/tanish-johar-435484222/))!
