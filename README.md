@@ -24,4 +24,4 @@ Always happy to connect and collaborate on:
 - Research in customer insights/marketing analytics  
 
 ### 📫 How to reach me  
-📬 *LinkedIn:* [My Profile]([https://www.linkedin.com/in/amrita-jena/](https://www.linkedin.com/in/tanish-johar-435484222/))
+📬 **LinkedIn:** [My Profile](https://www.linkedin.com/in/tanish-johar-435484222/)
